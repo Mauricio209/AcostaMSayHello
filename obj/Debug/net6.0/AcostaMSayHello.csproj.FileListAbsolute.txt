@@ -1,0 +1,15 @@
+/Users/bernardo/Documents/RealCodeStack/AcostaMSayHello/bin/Debug/net6.0/AcostaMSayHello
+/Users/bernardo/Documents/RealCodeStack/AcostaMSayHello/bin/Debug/net6.0/AcostaMSayHello.deps.json
+/Users/bernardo/Documents/RealCodeStack/AcostaMSayHello/bin/Debug/net6.0/AcostaMSayHello.runtimeconfig.json
+/Users/bernardo/Documents/RealCodeStack/AcostaMSayHello/bin/Debug/net6.0/AcostaMSayHello.dll
+/Users/bernardo/Documents/RealCodeStack/AcostaMSayHello/bin/Debug/net6.0/AcostaMSayHello.pdb
+/Users/bernardo/Documents/RealCodeStack/AcostaMSayHello/obj/Debug/net6.0/AcostaMSayHello.csproj.AssemblyReference.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMSayHello/obj/Debug/net6.0/AcostaMSayHello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bernardo/Documents/RealCodeStack/AcostaMSayHello/obj/Debug/net6.0/AcostaMSayHello.AssemblyInfoInputs.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMSayHello/obj/Debug/net6.0/AcostaMSayHello.AssemblyInfo.cs
+/Users/bernardo/Documents/RealCodeStack/AcostaMSayHello/obj/Debug/net6.0/AcostaMSayHello.csproj.CoreCompileInputs.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMSayHello/obj/Debug/net6.0/AcostaMSayHello.dll
+/Users/bernardo/Documents/RealCodeStack/AcostaMSayHello/obj/Debug/net6.0/refint/AcostaMSayHello.dll
+/Users/bernardo/Documents/RealCodeStack/AcostaMSayHello/obj/Debug/net6.0/AcostaMSayHello.pdb
+/Users/bernardo/Documents/RealCodeStack/AcostaMSayHello/obj/Debug/net6.0/AcostaMSayHello.genruntimeconfig.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMSayHello/obj/Debug/net6.0/ref/AcostaMSayHello.dll
